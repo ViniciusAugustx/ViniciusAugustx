@@ -2,7 +2,7 @@
 
 **`Estudante`**
 
-Me chamo Vinícius Augusto, tenho 21 anos e sou de Campinas SP.  Atualmente, estou cursando Ciência da Computação na UNIP. Sou apaixonado por tecnologia e busco sempre aperfeiçoar meus conhecimentos a medida que desenvolvo novos projetos.
+Me chamo Vinícius Augusto, tenho 22 anos e sou de Campinas SP.  Atualmente, estou cursando Ciência da Computação na UNIP. Sou apaixonado por tecnologia e busco sempre aperfeiçoar meus conhecimentos a medida que desenvolvo novos projetos.
 
 <p align="left">
     <a href="https://github.com/ViniciusAugustx?tab=followers">
